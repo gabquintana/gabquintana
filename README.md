@@ -150,7 +150,7 @@ print(primos_en_rango)
 
 lista = [4, 1, 8, 3, 6, 2, 9, 5, 7]
 
-# Ordenar la lista de forma ascendente (modifica la lista original)
+-Ordenar la lista de forma ascendente (modifica la lista original)-
 lista.sort()
 
 print("Lista ordenada de forma ascendente:", lista)
